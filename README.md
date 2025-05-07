@@ -1,4 +1,4 @@
-# Jogo do Número Secreto 🔢🤫
+# Jogo do Número Secreto 🔢🔮
 ## ✏️ Descrição
 ### Projeto trabalhado nos cursos de introdução à lógica de programação da plataforma Alura. 
 <p> Trata-se de um jogo simples de adivinhação de um número inteiro (sorteado dentro de um determinado intervalo), com dicas e tentativas de acerto.</p>
